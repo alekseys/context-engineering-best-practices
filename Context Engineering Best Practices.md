@@ -38,6 +38,12 @@ A curated set of resources for building AI systems with better retrieval, memory
 
 **[Open the latest GraphRAG release (v3.2.0)](https://github.com/microsoft/graphrag/releases/tag/v3.2.0)** — The latest release of Microsoft's modular graph-based retrieval-augmented generation system, published September 24, 2026.
 
+## 7. How to Make AI Understand Your Data
+
+<a href="decks/How%20to%20Make%20AI%20Understand%20Your%20Data%20-%20Oil%20%26%20Gas%20AI%202026.pdf"><img src="assets/oil-gas-ai-2026-deck.png" alt="How to Make AI Understand Your Data conference deck" width="360"></a>
+
+**[Open the Oil & Gas AI 2026 conference deck](decks/How%20to%20Make%20AI%20Understand%20Your%20Data%20-%20Oil%20%26%20Gas%20AI%202026.pdf)** — A 16-slide presentation on moving beyond simple RAG with context engineering, ontologies, GraphRAG, and intelligent routing for better accuracy, cost, and scale.
+
 ---
 
 Project and documentation thumbnails updated October 4, 2026.

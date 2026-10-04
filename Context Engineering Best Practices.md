@@ -4,40 +4,40 @@ A curated set of resources for building AI systems with better retrieval, memory
 
 ## 1. Agentic Retrieval
 
-[![Agentic Retrieval landing page](assets/agentic-retrieval.png)](https://aka.ms/agenticretrieval)
+<a href="https://aka.ms/agenticretrieval"><img src="assets/agentic-retrieval.png" alt="Agentic Retrieval overview" width="360"></a>
 
 **[Open Agentic Retrieval](https://aka.ms/agenticretrieval)** — A multi-stage, self-correcting retrieval accelerator built with Azure Cosmos DB and Microsoft Foundry. It decomposes complex questions, identifies knowledge gaps, retrieves targeted evidence, and synthesizes grounded answers.
 
 ## 2. Agentic Memory
 
-[![Agentic Memory landing page](assets/agentic-memory.png)](https://aka.ms/agenticmemory)
+<a href="https://github.com/AzureCosmosDB/AgentMemoryToolkit"><img src="assets/agentic-memory.png" alt="Agent Memory Toolkit overview" width="360"></a>
 
-**[Open Agentic Memory](https://aka.ms/agenticmemory)** — The requested Microsoft short link for agentic-memory material. As of October 4, 2026, the alias redirects to Bing rather than a dedicated resource page; the snapshot reflects its current destination.
+**[Open Agent Memory Toolkit](https://github.com/AzureCosmosDB/AgentMemoryToolkit)** — A Python SDK for storing, retrieving, and transforming agent memories in Azure Cosmos DB. It supports raw conversation history, thread summaries, extracted facts, procedural and episodic memories, and cross-thread user profiles.
 
 ## 3. CosmosAIGraph
 
-[![CosmosAIGraph landing page](assets/cosmos-ai-graph.png)](https://aka.ms/caig)
+<a href="https://aka.ms/caig"><img src="assets/cosmos-ai-graph.png" alt="CosmosAIGraph overview" width="360"></a>
 
 **[Open CosmosAIGraph](https://aka.ms/caig)** — An implementation of the OmniRAG pattern using Azure Cosmos DB vector and hybrid search with an Apache Jena in-memory knowledge graph. It routes user intent across multiple data sources to assemble richer context.
 
 ## 4. Foundry IQ
 
-[![Foundry IQ overview](assets/foundry-iq.png)](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)
+<a href="https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq"><img src="assets/foundry-iq.png" alt="Foundry IQ overview" width="360"></a>
 
 **[Open the Foundry IQ overview](https://learn.microsoft.com/en-us/azure/foundry/agents/concepts/what-is-foundry-iq)** — A managed, permission-aware knowledge layer for AI agents. Foundry IQ connects reusable knowledge bases to enterprise sources and uses agentic retrieval to return grounded answers with citations.
 
 ## 5. Azure Content Understanding
 
-[![Azure Content Understanding overview](assets/content-understanding.png)](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview)
+<a href="https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview"><img src="assets/content-understanding.png" alt="Azure Content Understanding overview" width="360"></a>
 
 **[Open the Azure Content Understanding overview](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview)** — A Foundry tool that uses generative AI to process documents, images, video, and audio into user-defined structured output for automation and analytics.
 
 ## 6. GraphRAG v3.2.0
 
-[![GraphRAG v3.2.0 release page](assets/graphrag-release.png)](https://github.com/microsoft/graphrag/releases/tag/v3.2.0)
+<a href="https://github.com/microsoft/graphrag/releases/tag/v3.2.0"><img src="assets/graphrag-release.png" alt="GraphRAG v3.2.0 release" width="360"></a>
 
 **[Open the latest GraphRAG release (v3.2.0)](https://github.com/microsoft/graphrag/releases/tag/v3.2.0)** — The latest release of Microsoft's modular graph-based retrieval-augmented generation system, published September 24, 2026.
 
 ---
 
-Landing-page snapshots captured October 4, 2026.
+Project and documentation thumbnails updated October 4, 2026.

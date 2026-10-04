@@ -6,4 +6,4 @@ Curated resources for retrieval, memory, knowledge graphs, enterprise knowledge,
 
 Scan to open the guide:
 
-![QR code for Context Engineering Best Practices](assets/context-engineering-best-practices-qr.png)
+<img src="assets/context-engineering-best-practices-qr.png" alt="QR code for Context Engineering Best Practices" width="180">

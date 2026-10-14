@@ -46,7 +46,7 @@ A curated set of resources for building AI systems with better retrieval, memory
 
 ## 8. How to Make AI Understand Your Data
 
-<a href="decks/How%20to%20Make%20AI%20Understand%20Your%20Data%20-%20Oil%20%26%20Gas%20AI%202026.pdf"><img src="assets/oil-gas-ai-2026-deck.png" alt="How to Make AI Understand Your Data conference deck" width="360"></a>
+<a href="decks/How%20to%20Make%20AI%20Understand%20Your%20Data.pdf"><img src="assets/ContextEngineering.png" alt="How to Make AI Understand Your Data conference deck" width="360"></a>
 
 **[How to Make AI Understand Your Data deck](decks/How%20to%20Make%20AI%20Understand%20Your%20Data.pdf)** — A 14-slide presentation on moving beyond simple RAG with context engineering, ontologies, GraphRAG, and intelligent routing for better accuracy, cost, and scale.
 
